@@ -974,6 +974,7 @@ IO19 MISO
 IO18 SCK
 IO22 SCL
 IO21 SDA</text>
+<text x="226.06" y="7.62" size="2.54" layer="91" ratio="15">Florian Schoop</text>
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="0" y="0"/>
