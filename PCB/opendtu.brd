@@ -155,20 +155,6 @@ ESP32</text>
 <pad name="1" x="0" y="0" drill="1" diameter="1.6"/>
 <text x="2.54" y="0" size="1.4224" layer="25">&gt;Name</text>
 </package>
-<package name="PASSLO2">
-<wire x1="0" y1="5.08" x2="0" y2="2.54" width="0.254" layer="21"/>
-<wire x1="2.54" y1="0" x2="5.08" y2="0" width="0.254" layer="21"/>
-<wire x1="0" y1="2.54" x2="2.54" y2="0" width="0.254" layer="21"/>
-<wire x1="0" y1="2.54" x2="0" y2="-2.54" width="0.254" layer="21"/>
-<wire x1="0" y1="-2.54" x2="0" y2="-5.08" width="0.254" layer="21"/>
-<wire x1="2.54" y1="0" x2="0" y2="-2.54" width="0.254" layer="21"/>
-<wire x1="-5.08" y1="0" x2="-2.54" y2="0" width="0.254" layer="21"/>
-<wire x1="-2.54" y1="0" x2="2.54" y2="0" width="0.254" layer="21"/>
-<wire x1="0" y1="-2.54" x2="-2.54" y2="0" width="0.254" layer="21"/>
-<wire x1="-2.54" y1="0" x2="0" y2="2.54" width="0.254" layer="21"/>
-<text x="2.54" y="-2.54" size="1.4" layer="25">&gt;Name</text>
-<hole x="0" y="0" drill="3.9878"/>
-</package>
 </packages>
 </library>
 <library name="EYR_Modulos">
@@ -692,8 +678,6 @@ einem neuen Namen ab.
 <element name="WEMOS1" library="wemos d1" package="WEMOS-D1-MINI" value="" x="23.495" y="36.195"/>
 <element name="C1" library="5elko" package="EB10D" value="470uF" x="71.12" y="8.89" rot="R270"/>
 <element name="X1" library="STECKER" package="MCV1,5/2" value="MCV1,5/2G" x="37.465" y="8.255" rot="R270"/>
-<element name="PL0" library="3PASSIVE" package="PASSLO2" value="" x="-7.62" y="0"/>
-<element name="PL1" library="3PASSIVE" package="PASSLO2" value="" x="115.57" y="0"/>
 </elements>
 <signals>
 <signal name="N$1">
