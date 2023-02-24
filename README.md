@@ -1,6 +1,7 @@
 # OpenDTU-PCB  [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)    
 OpenDTU PCB mit Display   
-(https://github.com/turrican944/OpenDTU-PCB/blob/main/bilder/Top.png)
+![Top](https://raw.githubusercontent.com/turrican944/OpenDTU-PCB/main/bilder/Top.png)
+
 
 [![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
