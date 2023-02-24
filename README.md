@@ -5,6 +5,7 @@ Eine Leiterplatte für OpenDTU und Ahoy mit Oled Display.
 Gehäuse Gainta G203CMF 115 x 65 x 40
 
 ![Top](https://raw.githubusercontent.com/turrican944/OpenDTU-PCB/main/bilder/Top.png)
+![Bottom](https://raw.githubusercontent.com/turrican944/OpenDTU-PCB/main/bilder/bottom.png)
 
 
 [![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
