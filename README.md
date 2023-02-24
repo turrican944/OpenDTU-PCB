@@ -1,6 +1,9 @@
 # OpenDTU-PCB  [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)    
-# Ungetestet !!! 
-OpenDTU PCB mit Display   
+# Das ganze ist Ungetestet !!! ich warte auf die ersten Leiterplatten zum Testen.
+   
+Eine Leiterplatte für OpenDTU und Ahoy mit Oled Display.
+Gehäuse Gainta G203CMF 115 x 65 x 40
+
 ![Top](https://raw.githubusercontent.com/turrican944/OpenDTU-PCB/main/bilder/Top.png)
 
 
