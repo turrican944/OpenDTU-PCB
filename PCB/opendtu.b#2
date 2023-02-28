@@ -137,13 +137,10 @@ CC BY-NC-SA 4.0</text>
 <text x="42.545" y="2.54" size="1.4" layer="25" ratio="15" rot="R90">+5V</text>
 <text x="31.75" y="7.62" size="1.4" layer="25" ratio="15">+</text>
 <text x="33.02" y="3.81" size="1.4" layer="25" ratio="15" rot="R90">-</text>
-<text x="54.61" y="46.355" size="1.4" layer="25" ratio="15">1</text>
+<text x="54.61" y="46.355" size="1.4" layer="25" ratio="15">1  2  3  4</text>
 <text x="18.415" y="39.37" size="1.4" layer="25" ratio="15">Wemos D1
 ESP32</text>
 <rectangle x1="43.815" y1="6.35" x2="62.23" y2="11.43" layer="41"/>
-<text x="57.15" y="46.355" size="1.4" layer="25" ratio="15">2</text>
-<text x="59.69" y="46.355" size="1.4" layer="25" ratio="15">3</text>
-<text x="62.23" y="46.355" size="1.4" layer="25" ratio="15">4</text>
 </plain>
 <libraries>
 <library name="3PASSIVE">
@@ -884,13 +881,6 @@ einem neuen Namen ab.
 <contactref element="WEMOS1" pad="GND"/>
 <contactref element="C1" pad="-"/>
 <contactref element="X1" pad="2"/>
-<wire x1="72.39" y1="19.05" x2="91.44" y2="38.735" width="0" layer="19" extent="1-1"/>
-<wire x1="62.484" y1="17.78" x2="72.39" y2="19.05" width="0" layer="19" extent="16-16"/>
-<wire x1="52.451" y1="17.78" x2="62.484" y2="17.78" width="0" layer="19" extent="16-16"/>
-<wire x1="45.72" y1="19.05" x2="52.451" y2="17.78" width="0" layer="19" extent="16-16"/>
-<wire x1="71.12" y1="6.35" x2="72.39" y2="19.05" width="0" layer="19" extent="1-1"/>
-<wire x1="36.195" y1="28.575" x2="45.72" y2="19.05" width="0" layer="19" extent="1-1"/>
-<wire x1="37.465" y1="4.445" x2="45.72" y2="19.05" width="0" layer="19" extent="1-1"/>
 </signal>
 </signals>
 </board>
