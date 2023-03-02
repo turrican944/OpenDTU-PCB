@@ -137,10 +137,14 @@ CC BY-NC-SA 4.0</text>
 <text x="42.545" y="2.54" size="1.4" layer="25" ratio="15" rot="R90">+5V</text>
 <text x="31.75" y="7.62" size="1.4" layer="25" ratio="15">+</text>
 <text x="33.02" y="3.81" size="1.4" layer="25" ratio="15" rot="R90">-</text>
-<text x="54.61" y="46.355" size="1.4" layer="25" ratio="15">1  2  3  4</text>
+<text x="54.61" y="46.355" size="1.4" layer="25" ratio="15">1</text>
 <text x="18.415" y="39.37" size="1.4" layer="25" ratio="15">Wemos D1
 ESP32</text>
 <rectangle x1="43.815" y1="6.35" x2="62.23" y2="11.43" layer="41"/>
+<text x="57.15" y="46.355" size="1.4" layer="25" ratio="15">2</text>
+<text x="59.69" y="46.355" size="1.4" layer="25" ratio="15">3</text>
+<text x="62.23" y="46.355" size="1.4" layer="25" ratio="15">4</text>
+<text x="87.63" y="21.59" size="1.4" layer="25" ratio="15" rot="R90">NRF24L01+</text>
 </plain>
 <libraries>
 <library name="3PASSIVE">
@@ -881,6 +885,10 @@ einem neuen Namen ab.
 <contactref element="WEMOS1" pad="GND"/>
 <contactref element="C1" pad="-"/>
 <contactref element="X1" pad="2"/>
+<via x="13.335" y="52.07" extent="1-16" drill="0.5" diameter="1.1"/>
+<via x="83.185" y="52.07" extent="1-16" drill="0.5" diameter="1.1"/>
+<via x="20.955" y="3.175" extent="1-16" drill="0.5" diameter="1.1"/>
+<via x="92.71" y="3.175" extent="1-16" drill="0.5" diameter="1.1"/>
 </signal>
 </signals>
 </board>
