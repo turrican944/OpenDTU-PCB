@@ -961,7 +961,7 @@ ESP8266 module</description>
 
 J1  1-2  1+       J2 2-3  1-
 J2  1-2  2-        J2 2-3  2+
-Achtung Kurzschluss gefahr !</text>
+Achtung verpolungs gefahr !</text>
 <text x="170.18" y="167.64" size="2.54" layer="91" ratio="15">Display 90°</text>
 <text x="10.16" y="7.62" size="2.54" layer="91" ratio="15">OpenDTU 
 Wemos D1 ESP
@@ -975,6 +975,8 @@ IO18 SCK
 IO22 SCL
 IO21 SDA</text>
 <text x="226.06" y="7.62" size="2.54" layer="91" ratio="15">Florian Schoop</text>
+<text x="58.42" y="99.06" size="2.54" layer="91" ratio="15">5V Eingang
+mini combicon</text>
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="0" y="0"/>
