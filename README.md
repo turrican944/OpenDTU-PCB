@@ -5,6 +5,7 @@ Gehäuse Gainta G203CMF 115 x 65 x 40
 
 ![Top](https://raw.githubusercontent.com/turrican944/OpenDTU-PCB/main/bilder/Top.png)
 ![Bottom](https://raw.githubusercontent.com/turrican944/OpenDTU-PCB/main/bilder/bottom.png)
+![dtu](https://raw.githubusercontent.com/turrican944/OpenDTU-PCB/main/bilder/dtu.jpg)
 
 V1 der Leiterplatte ist fertig und funktioniert. Da an V1.1 nur ein paar Kosmetische änderungen im Beschriftungsdruck gemacht worden sind sollte die auch funktionieren. Da kommen aber auch noch Muster.
 
