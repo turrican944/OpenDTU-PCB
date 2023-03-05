@@ -12,12 +12,12 @@ Es kann ein Wemos D1 mini oder ein Wemos D1 ESP32 verbaut werden. Für OpenDTU w
 
 Das GPIO Pinning ist das Standartpinning vom AhoyDTU. OpenDTU muss entsprechend auf angepasst werden (Deviceprofil.json für OpenDTU mit und ohne Display).
 
-Bauteile: 
-Wemos D1 ESP32 (für OpenDTU oder Ahoy) https://www.az-delivery.de/collections/esp32/products/esp32-d1-mini
-Wemos D1 mini 8266 (Ahoy)
-NRF24L01+ Funkmodul 
-470uF Kondensator
-Minicombicon wenn die Stromversorgung nicht über den USB Port erfolgen soll. [https://www.reichelt.de/stiftleiste-2-pol-rm-3-81-mm-0--ctb932ve-2-p292580.html?&nbc=1&trstct=lsbght_sldr::292630)
+Bauteile: <br>
+Wemos D1 ESP32 (für OpenDTU oder Ahoy) https://www.az-delivery.de/collections/esp32/products/esp32-d1-mini <br>
+Wemos D1 mini 8266 (Ahoy) <br>
+NRF24L01+ Funkmodul <br>
+470uF Kondensator <br>
+Minicombicon wenn die Stromversorgung nicht über den USB Port erfolgen soll. https://www.reichelt.de/stiftleiste-2-pol-rm-3-81-mm-0--ctb932ve-2-p292580.html?&nbc=1&trstct=lsbght_sldr::292630 <br>
 
 V1 der Leiterplatte ist fertig und funktioniert. Da an V1.1 nur ein paar Kosmetische änderungen im Beschriftungsdruck gemacht worden sind sollte die auch funktionieren. Da kommen aber auch noch Muster.
 
