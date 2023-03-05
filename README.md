@@ -10,7 +10,7 @@ Gehäuse Gainta G203CMF 115 x 65 x 40
 Es kann ein 1.3" Oled oder 0.9" I2C Oled verbaut werden. Die Polung der Spannungsversorgung ist über Jumper einstellbar. Das Oled kann wahlweise auch 90° gedreht eingesetzt werden. NRF24L01+ als Standart mit PCB Antenne oder auch als Version mit externer Antenne.
 Es kann ein Wemos D1 mini oder ein Wemos D1 ESP32 verbaut werden. Für OpenDTU wird der Wemos D1 ESP32 benötigt.
 
-Das GPIO Pinning ist das Standartpinning vom AhoyDTU. OpenDTU muss entsprechend auf angepasst werden.
+Das GPIO Pinning ist das Standartpinning vom AhoyDTU. OpenDTU muss entsprechend auf angepasst werden (Deviceprofil.json für OpenDTU mit und ohne Display).
 
 V1 der Leiterplatte ist fertig und funktioniert. Da an V1.1 nur ein paar Kosmetische änderungen im Beschriftungsdruck gemacht worden sind sollte die auch funktionieren. Da kommen aber auch noch Muster.
 
