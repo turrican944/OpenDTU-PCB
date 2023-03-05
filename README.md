@@ -18,6 +18,7 @@ Wemos D1 mini 8266 (Ahoy) <br>
 NRF24L01+ Funkmodul <br>
 470uF Kondensator <br>
 Minicombicon wenn die Stromversorgung nicht über den USB Port erfolgen soll. https://www.reichelt.de/stiftleiste-2-pol-rm-3-81-mm-0--ctb932ve-2-p292580.html?&nbc=1&trstct=lsbght_sldr::292630 <br>
+Gainta G203CMF 115 x 65 x 40 Gehäuse https://www.ebay.de/itm/403771748682 <br>
 
 V1 der Leiterplatte ist fertig und funktioniert. Da an V1.1 nur ein paar Kosmetische änderungen im Beschriftungsdruck gemacht worden sind sollte die auch funktionieren. Da kommen aber auch noch Muster.
 
