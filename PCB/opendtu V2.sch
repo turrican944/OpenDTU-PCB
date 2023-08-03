@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="2.54" unitdist="mm" unit="mm" style="dots" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -982,19 +982,19 @@ SWITCH</text>
 <text x="1.27" y="17.78" size="0.8128" layer="21">GND</text>
 <text x="1.27" y="7.62" size="0.8128" layer="21">GND</text>
 <text x="1.27" y="1.27" size="0.8128" layer="21">GND</text>
-<text x="11.43" y="1.27" size="0.8128" layer="21">GND</text>
-<text x="11.43" y="7.62" size="0.8128" layer="21">GND</text>
-<text x="11.43" y="6.35" size="0.8128" layer="21">FCSB</text>
-<text x="11.43" y="5.08" size="0.8128" layer="21">CSB</text>
-<text x="11.43" y="3.81" size="0.8128" layer="21">SDIO</text>
-<text x="11.43" y="2.54" size="0.8128" layer="21">SCLK</text>
+<text x="10.16" y="1.27" size="0.8128" layer="21">GND</text>
+<text x="10.16" y="7.62" size="0.8128" layer="21">GND</text>
+<text x="10.16" y="6.35" size="0.8128" layer="21">FCSB</text>
+<text x="10.16" y="5.08" size="0.8128" layer="21">CSB</text>
+<text x="10.16" y="3.81" size="0.8128" layer="21">SDIO</text>
+<text x="10.16" y="2.54" size="0.8128" layer="21">SCLK</text>
 <text x="1.27" y="6.35" size="0.8128" layer="21">GPIO1</text>
 <text x="1.27" y="5.08" size="0.8128" layer="21">GPIO2</text>
 <text x="1.27" y="3.81" size="0.8128" layer="21">GPIO3</text>
 <text x="1.27" y="2.54" size="0.8128" layer="21">3.3V</text>
-<text x="11.43" y="17.78" size="0.8128" layer="21">GND</text>
-<text x="11.43" y="15.24" size="0.8128" layer="21">GND</text>
-<text x="11.43" y="16.51" size="0.8128" layer="21">ANT</text>
+<text x="10.16" y="17.78" size="0.8128" layer="21">GND</text>
+<text x="10.16" y="15.24" size="0.8128" layer="21">GND</text>
+<text x="10.16" y="16.51" size="0.8128" layer="21">ANT</text>
 </package>
 </packages>
 <symbols>
