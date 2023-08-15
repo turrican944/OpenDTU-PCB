@@ -1461,17 +1461,32 @@ SWITCH</text>
 J1  1-2  1+       J2 2-3  1-
 J2  1-2  2-        J2 2-3  2+
 Achtung verpolungs gefahr !</text>
-<text x="10.16" y="7.62" size="2.54" layer="91" ratio="15">OpenDTU 
+<text x="238.76" y="50.8" size="2.54" layer="91" ratio="15">OpenDTU 
 Wemos D1 ESP
 GPIO Belegung
+NRF:
 IO17 IRQ
 IO16 CE
 IO5   CS
 IO23 MOSI
 IO19 MISO
 IO18 SCK
+
+Display:
 IO22 SCL
-IO21 SDA</text>
+IO21 SDA
+
+CMT2300a:
+IO14 SDIO
+IO12 SCLK
+IO27 CSN
+IO26 FCSB
+IO04 GPIO2
+IO13 GPIO3
+
+LED:
+IO32 LED0
+IO33 LED1</text>
 <text x="226.06" y="7.62" size="2.54" layer="91" ratio="15">Florian Schoop</text>
 <text x="170.18" y="34.29" size="2.54" layer="91" ratio="15">5V Eingang
 mini combicon</text>
