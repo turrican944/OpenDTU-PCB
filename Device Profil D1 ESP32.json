@@ -1,6 +1,6 @@
 [
     {
-        "name": "Wemos D1 ESP32",
+        "name": "Wemos D1 ESP32 NRF24",
         "nrf24": {
             "miso": 19,
             "mosi": 23,
@@ -14,7 +14,7 @@
         }
     },
     {
-        "name": "Wemos D1 ESP32 + Oled SSD1306",
+        "name": "Wemos D1 ESP32 NRF24 + Oled SSD1306",
         "nrf24": {
             "miso": 19,
             "mosi": 23,
@@ -33,7 +33,7 @@
         }
     },
     {
-        "name": "Wemos D1 ESP32 + Oled SH1106",
+        "name": "Wemos D1 ESP32 NRF24 + Oled SH1106",
         "nrf24": {
             "miso": 19,
             "mosi": 23,
@@ -49,6 +49,82 @@
             "type": 3,
             "data": 21,
             "clk": 22
+        }
+    },
+    {
+        "name": "Wemos D1 ESP32 CMT2300a (Blinky) + Oled SH1106",
+        "cmt": {
+            "clk": 18,
+            "cs": 16,
+            "fcs": 5,
+            "sdio": 23,
+            "gpio2": 19,
+            "gpio3": 17
+        },
+     	"nrf24": {
+            "miso": -1,
+            "mosi": -1,
+            "clk": -1,
+            "irq": -1,
+            "en": -1,
+            "cs": -1
+        },
+        "eth": {
+            "enabled": false
+        },
+        "display": {
+            "type": 3,
+            "data": 21,
+            "clk": 22
+        }
+    },
+    {
+        "name": "Wemos D1 ESP32 CMT2300a + NRF + LED + Oled SH1106",
+        "cmt": {
+            "clk": 12,
+            "cs": 27,
+            "fcs": 26,
+            "sdio": 14,
+            "gpio2": 4,
+            "gpio3": 13
+        },
+     	"nrf24": {
+            "miso": 19,
+            "mosi": 23,
+            "clk": 18,
+            "irq": 17,
+            "en": 16,
+            "cs": 5
+        },
+        "eth": {
+            "enabled": false
+        },
+        "led": {
+            "led0": 32,
+            "led1": 33
+        },
+        "display": {
+            "type": 3,
+            "data": 21,
+            "clk": 22
+        }
+    },
+    {
+        "name": "Olimex ESP32-POE CMT2003",
+        "cmt": {
+            "clk": 15,
+            "cs": 16,
+            "fcs": 13,
+            "sdio": 2
+        },
+        "eth": {
+            "enabled": true,
+            "phy_addr": 0,
+            "power": 12,
+            "mdc": 23,
+            "mdio": 18,
+            "type": 0,
+            "clk_mode": 3
         }
     }
 ]
