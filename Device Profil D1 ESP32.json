@@ -52,7 +52,7 @@
         }
     },
     {
-        "name": "Wemos D1 ESP32 CMT2300a (Blinky) + Oled SH1106",
+        "name": "Wemos D1 ESP CMT2300a (Breakout Board) + Oled SH1106",
         "cmt": {
             "clk": 18,
             "cs": 16,
@@ -79,7 +79,7 @@
         }
     },
     {
-        "name": "Wemos D1 ESP32 CMT2300a + NRF + LED + Oled SH1106",
+        "name": "Wemos D1 ESP32 CMT2300a + NRF24 + LED + Oled SH1106",
         "cmt": {
             "clk": 12,
             "cs": 27,
@@ -110,7 +110,7 @@
         }
     },
     {
-        "name": "Olimex ESP32-POE CMT2003",
+        "name": "Olimex ESP32-POE CMT2003a",
         "cmt": {
             "clk": 15,
             "cs": 16,
