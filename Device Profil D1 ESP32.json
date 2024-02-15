@@ -117,6 +117,14 @@
             "fcs": 13,
             "sdio": 2
         },
+	"nrf24": {
+            "miso": -1,
+            "mosi": -1,
+            "clk": -1,
+            "irq": -1,
+            "en": -1,
+            "cs": -1
+        },
         "eth": {
             "enabled": true,
             "phy_addr": 0,
@@ -125,6 +133,15 @@
             "mdio": 18,
             "type": 0,
             "clk_mode": 3
+        },
+        "led": {
+            "led0": -1,
+            "led1": -1
+	},
+        "display": {
+            "type": 0,
+            "data": 255,
+            "clk": 255
         }
     }
 ]
