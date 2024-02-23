@@ -51,9 +51,9 @@ Adapterplatine CMT2300a auf Olimex poe Board
 ![Olimex1](https://raw.githubusercontent.com/turrican944/OpenDTU-PCB/main/bilder/olimex.jpg)
 Die Gerberdaten der Olimex Platine sind auch Panel 2x4 vorhanden.
 
-Für den Olimex ISO gibt es mitlerweile ein passendes Gehäuse zum ausdrucken.
-https://www.thingiverse.com/thing:6489072
-(das Gehäuse ist nicht von mir)
+Gehäuse für den Olimex ISO
+https://www.thingiverse.com/thing:6489072 <br>
+Gehäuse Olimex https://www.thingiverse.com/thing:4860626 (das ist das auf dem Bild)
 
 [![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
