@@ -1458,9 +1458,9 @@ SWITCH</text>
 <plain>
 <text x="97.79" y="167.64" size="2.54" layer="91" ratio="15">Display Versorungsspannung
 
-J1  1-2  1+       J2 2-3  1-
+J1  1-2  1+       J1 2-3  1-
 J2  1-2  2-        J2 2-3  2+
-Achtung verpolungs gefahr !</text>
+Achtung verpolungs Gefahr !</text>
 <text x="238.76" y="50.8" size="2.54" layer="91" ratio="15">OpenDTU 
 Wemos D1 ESP
 GPIO Belegung
