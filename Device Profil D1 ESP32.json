@@ -9,6 +9,18 @@
             "en": 16,
             "cs": 5
         },
+        "cmt": {
+            "clk": -1,
+            "cs": -1,
+            "fcs": -1,
+            "sdio": -1,
+            "gpio2": -1,
+            "gpio3": -1
+        },
+         "led": {
+            "led0": -1,
+            "led1": -1
+	    },
         "eth": {
             "enabled": false
         }
@@ -23,6 +35,18 @@
             "en": 16,
             "cs": 5
         },
+          "cmt": {
+            "clk": -1,
+            "cs": -1,
+            "fcs": -1,
+            "sdio": -1,
+            "gpio2": -1,
+            "gpio3": -1
+        },
+         "led": {
+            "led0": -1,
+            "led1": -1
+	   },
         "eth": {
             "enabled": false
         },
@@ -42,6 +66,49 @@
             "en": 16,
             "cs": 5
         },
+          "cmt": {
+            "clk": -1,
+            "cs": -1,
+            "fcs": -1,
+            "sdio": -1,
+            "gpio2": -1,
+            "gpio3": -1
+        },
+         "led": {
+            "led0": -1,
+            "led1": -1
+	   },
+        "eth": {
+            "enabled": false
+        },
+        "display": {
+            "type": 3,
+            "data": 21,
+            "clk": 22
+        }
+    },
+    {
+        "name": "ESP32 NRF24 + Oled SH1106",
+        "nrf24": {
+            "miso": 19,
+            "mosi": 23,
+            "clk": 18,
+            "irq": 17,
+            "en": 4,
+            "cs": 5
+        },
+          "cmt": {
+            "clk": -1,
+            "cs": -1,
+            "fcs": -1,
+            "sdio": -1,
+            "gpio2": -1,
+            "gpio3": -1
+        },
+         "led": {
+            "led0": -1,
+            "led1": -1
+	   },
         "eth": {
             "enabled": false
         },
@@ -69,6 +136,10 @@
             "en": -1,
             "cs": -1
         },
+         "led": {
+            "led0": -1,
+            "led1": -1
+	   },
         "eth": {
             "enabled": false
         },
